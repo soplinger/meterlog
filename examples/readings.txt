@@ -1,0 +1,12 @@
+# Household meters, read on the first of each month.
+# Format: DATE METER VALUE [# note]
+2026-01-01 electricity 10234.5 # moved in
+2026-02-01 electricity 10410.0
+2026-03-01 electricity 10602.5
+2026-04-01 electricity 10655.0 # away for the Easter holiday
+2026-05-01 electricity 10919.5
+2026-01-01 gas 4411
+2026-02-01 gas 4502.5
+2026-03-01 gas 4640
+2026-04-01 gas 4675
+2026-05-01 gas 4861.5

@@ -1,0 +1,9 @@
+{
+  "symbol": "£",
+  "standing_charge_per_day": "0.45",
+  "vat_percent": "5",
+  "tiers": [
+    {"up_to": "150", "rate": "0.2814"},
+    {"up_to": null, "rate": "0.3650"}
+  ]
+}
